@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054653229815",
+    "project_id": "cheburek-8538a",
+    "storage_bucket": "cheburek-8538a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054653229815:android:37ab62774c12ffacac01f2",
+        "android_client_info": {
+          "package_name": "com.example.cheburek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054653229815-v6h5r70jigspm399smsg9c3dpnp685j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheburek",
+            "certificate_hash": "6a60990eba5e6b68e256ea747aaf95c87843e20d"
+          }
+        },
+        {
+          "client_id": "1054653229815-0nm9n2373bs4j3vrci6ej1o65rovjp8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GjC2_dEwXv4V9XMJnF1P5gcLAMbFhKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054653229815-0nm9n2373bs4j3vrci6ej1o65rovjp8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
